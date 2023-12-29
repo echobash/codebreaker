@@ -3,5 +3,5 @@
 @section('title','Welcome')
 
 @section('content')
-    <livewire:create-code />
+    <livewire:counter />
 @endsection
