@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/echobash/codebreaker/blob/5446415539989656b004cf6f6c10d21bca540e3a/public/images/codebreaker.gif" height="400px" ></p>
+<p align="center"><img src="https://raw.githubusercontent.com/echobash/codebreaker/main/public/images/logo.gif" height="400px" ></p>
 
 ## About Codebreaker
 
